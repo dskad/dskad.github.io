@@ -16,10 +16,10 @@ timezone: America/New_York
 
 title: Dan Skadra # the main title
 
-tagline: A blog for computer ops and programming
+tagline: A blog about open source, programming, operations and automation
 
 description: >- # used by seo meta and the atom feed
-  A blog about programming, devops, system administration and the tools that make it happen
+  A blog about open source, programming, operations, automation and the tools that make it happen
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
